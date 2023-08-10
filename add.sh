@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 
 # Function to check if a given URL path exists in the file
 path_exists() {
