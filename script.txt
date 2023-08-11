@@ -1,0 +1,9 @@
+scripts should output data to some type of file or port that golang can listen for messages on
+
+
+MANUAL
+users enter paths
+program keeps asking for paths
+user says "DONE"
+paths stop getting added to wordlist
+then the user gets the option to go back or run the script

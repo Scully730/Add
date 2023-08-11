@@ -1,0 +1,26 @@
+What I want this interactive app to be able to do...
+
+
+Print optins of the bash script to use
+for example
+
+"SELECT ONE
+(1) - Twitter Grep
+(2) - Manual
+(3) - Help
+(4) - Exit
+Choice >"
+
+
+if user inputs incorrect, it will clear the console and reprint the whole thing
+
+after they pick an option, it will go into sub script
+for example they chose twitter Grep
+
+"Input the paths you would like to grep for on twitter then say DONE"
+> path
+> /path2
+> DONE"
+
+"Ok... Running Script... (prints the dots, then deletes them, then prints them again)"
+^^ should run concurrently as the bash script executes
